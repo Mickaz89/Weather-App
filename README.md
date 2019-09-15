@@ -1,5 +1,24 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Basic Weather App 
+
+This a simply basic weather app that is using React Js , the app can get the current location of the user and the current month to determine the season . 
+
+This app covers all these React features : 
+
+Functionnal Component <br>
+Class Based Component <br>
+States and Rules of States <br>
+Props <br>
+LifeCycle Methods <br>
+Conditionnal Rendering <br>
+Styling <br>
+Refactoring Code <br>
+ES6 Syntax <br>
+Extracting Objects <br>
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
